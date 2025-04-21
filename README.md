@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o Eduardo Custódio Vieira
 
-<!--
-**ductvi/ductvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Administração e em Desenvolvimento de Sistemas  
+💻 Apaixonado por programação e tecnologia  
+📚 Estudando Java, JavaScript, C#, SQL, HTML e CSS  
+🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-custódio-vieira-648684290) | [GitHub](https://github.com/ductvi)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Projetos
+
+- 💼 [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
+- 🛡️ [API de RPG - Senhor dos Anéis](https://github.com/ductvi/api-rpg-lotr) – Sistema de RPG baseado em atributos, magias e classes
