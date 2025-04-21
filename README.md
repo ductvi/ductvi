@@ -2,7 +2,6 @@
 
 🎓 Técnico em Administração e em Desenvolvimento de Sistemas  
 💻 Apaixonado por programação e tecnologia  
-📚 Estudando Java, JavaScript, C#, SQL, HTML e CSS  
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-custódio-vieira-648684290) | [GitHub](https://github.com/ductvi)
 
 ---
@@ -11,3 +10,20 @@
 
 - 💼 [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
 - 🛡️ [API de RPG - Senhor dos Anéis](https://github.com/ductvi/api-rpg-lotr) – Sistema de RPG baseado em atributos, magias e classes
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML & CSS  
+- JavaScript  
+- Java  
+- C#  
+- SQL   
+
+---
+
+## 📫 Contato
+
+- 📍 São Paulo/SP  
+- 📧 eduardocustodiovieira01@gmail.com  
