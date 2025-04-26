@@ -5,12 +5,9 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-custódio-vieira-648684290) | [GitHub](https://github.com/ductvi)
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductvi&repo=github-readme-stats&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductvi&repo=convoychattheme=tokyonight" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&card_width=400&theme=tokyonight)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
