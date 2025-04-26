@@ -1,8 +1,6 @@
 ### 👋 Olá! Eu sou o Eduardo Custódio Vieira
 
 🎓 Técnico em Administração e em Desenvolvimento de Sistemas  
-💻 Apaixonado por programação e tecnologia  
-🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-custódio-vieira-648684290) | [GitHub](https://github.com/ductvi)
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
@@ -22,10 +20,10 @@
 - 🛡️ [API de RPG - Senhor dos Anéis](https://github.com/ductvi/api-rpg-lotr) – Sistema de RPG baseado em atributos, magias e classes
 
 ---
-
+### 📮 Contato
 <div> 
   <a href="https://instagram.com/ductvi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardocustodiovieira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ductvi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
