@@ -4,8 +4,9 @@
 💻 Apaixonado por programação e tecnologia  
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-custódio-vieira-648684290) | [GitHub](https://github.com/ductvi)
 
----![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&card_width=400&theme=tokyonight)
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&card_width=600&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&card_width=600&theme=tokyonight)
 
 
 ### 🚀 Meus Projetos
