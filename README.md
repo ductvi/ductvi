@@ -5,6 +5,7 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/eduardo-custódio-vieira-648684290) | [GitHub](https://github.com/ductvi)
 
 ---
+[![ductvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Meus Projetos
 
