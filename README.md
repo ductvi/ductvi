@@ -6,7 +6,7 @@
 
 ---
 [![ductvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ductvi)](https://github.com/anuraghazra/github-readme-stats)]
-![ductvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ductvia&show_icons=true&theme=tokyonight)
+![ductvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
 
 ### 🚀 Meus Projetos
 
