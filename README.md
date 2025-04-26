@@ -17,7 +17,7 @@
 ### 🚀 Meus Projetos
 
 - 💼 [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
-- 🛡️ [API de RPG - Senhor dos Anéis](https://github.com/ductvi/api-rpg-lotr) – Sistema de RPG baseado em atributos, magias e classes
+- 🛡️ [API de RPG - Senhor dos Anéis](https://github.com/ductvi/RpgApi) – Sistema de RPG baseado em atributos, magias e classes
 
 ---
 ### 📮 Contato
