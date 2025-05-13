@@ -17,8 +17,9 @@
 
 ### 🚀 Meus Projetos
 
-- 💼 [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
-- 🛡️ [WEBAPI de RPG - Senhor dos Anéis](https://github.com/ductvi/RpgApi) – WebApi Baseada em senhor dos anéis com Personagens, Habilidades e Armas.
+- [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
+- [WEBAPI de RPG - Senhor dos Anéis](https://github.com/ductvi/RpgApi) – WebApi Baseada em senhor dos anéis com Personagens, Habilidades e Armas, programado em c#.
+- [WEBAPI - Controle de Gastos.](https://github.com/ductvi/api-controle-gastos) - Webapi em node.js para o usuário controlar os gastos e as suas despesas.
 
 ---
 <div> 
