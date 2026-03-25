@@ -5,7 +5,7 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=10)
 
 
 <div style="display: inline_block"><br>
