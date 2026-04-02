@@ -3,9 +3,9 @@
 🎓 Técnico em Administração e em Desenvolvimento de Sistemas  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight&cache_seconds=0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=0)
 
 
 <div style="display: inline_block"><br>
@@ -26,4 +26,3 @@
 ---
 <div> 
   <a href="https://www.linkedin.com/in/ductvi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
