@@ -1,6 +1,6 @@
 ### Eduardo Custódio Vieira
 
-🎓 Técnico em Desenvolvimento de Sistemas e Estudande de ADS na FATEC Ipiranga.
+🎓 Técnico em Desenvolvimento de Sistemas e Estudante de ADS na FATEC Ipiranga.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
