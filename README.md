@@ -10,6 +10,9 @@
   <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
+![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight)
+
 ### 🚀 Meus Projetos
 
 - [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
