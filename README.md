@@ -1,25 +1,49 @@
-### Eduardo Custódio Vieira
+# Olá, eu sou o Eduardo Custódio! 👋
 
-🎓 Técnico em Desenvolvimento de Sistemas e Estudante de ADS na FATEC Ipiranga.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight)
-
-### 🚀 Meus Projetos
-
-- [Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas) – Site informativo sobre pragas urbanas com dashboard e mapa para realizar denúncias.
-- [WEBAPI de RPG - Senhor dos Anéis](https://github.com/ductvi/RpgApi) – WebApi Baseada em senhor dos anéis com Personagens, Habilidades e Armas, programado em c#.
-- [WEBAPI - Controle de Gastos.](https://github.com/ductvi/api-controle-gastos) - Webapi em node.js para o usuário controlar os gastos e as suas despesas.
-- [WEBAPI - Dashboard do Clima.](https://github.com/ductvi/weather-dashboard) - Webapi em node.js e react com informações do clima atravésda localizaçãodo usuário.
+### Técnico em Desenvolvimento de Sistemas | Estudante de ADS na FATEC Ipiranga
 
 ---
-<div> 
-  <a href="https://www.linkedin.com/in/ductvi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Frameworks**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</div>
+
+**Frontend & Banco de Dados**
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[Sistema de Alerta de Pragas](https://github.com/ductvi/alerta-de-pragas)** Plataforma informativa sobre pragas urbanas. Inclui um dashboard interativo e integração com mapas para facilitar denúncias e monitoramento.
+* **[WebAPI de RPG - Senhor dos Anéis](https://github.com/ductvi/RpgApi)** API desenvolvida em **C#** focada no universo de Tolkien. Gerencia personagens, habilidades e itens, estruturando a lógica de um sistema de RPG.
+* **[API - Controle de Gastos](https://github.com/ductvi/api-controle-gastos)** Solução em **Node.js** para gestão financeira pessoal, permitindo o controle rigoroso de despesas e receitas.
+* **[Weather Dashboard](https://github.com/ductvi/weather-dashboard)** Aplicação Full Stack (**React + Node.js**) que consome dados meteorológicos em tempo real baseados na localização do usuário.
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ductvi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
