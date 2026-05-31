@@ -7,20 +7,10 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Frameworks**
-<div>
-  <img src="https://shields.io" alt="C#">
-  <img src="https://shields.io" alt="Java">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="React">
-</div>
+![C#](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) ![Node.js](https://shields.io) ![React](https://shields.io)
 
 **Frontend & Banco de Dados**
-<div style="margin-top: 5px;">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="MySQL">
-</div>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![MySQL](https://shields.io)
 
 ---
 
@@ -36,13 +26,13 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://vercel.app" alt="Top Langs" height="180em" />
+  <img src="https://vercel.app" height="180em" />
 </div>
 
 ---
 
 <div align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
+    <img src="https://shields.io">
   </a>
 </div>
