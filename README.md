@@ -33,10 +33,16 @@
 
 ### 📊 Estatísticas
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight" />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ductvi&theme=tokyonight&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
+  </a>
+</div>
 ---
 
 <div align="left">
-  <a href="https://linkedin.com/in/linkedin/in/ductvi" target="_blank">
+  <a href="https://linkedin.com/in/ductvi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
