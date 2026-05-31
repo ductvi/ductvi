@@ -32,14 +32,11 @@
 ---
 
 ### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/ductvi?template=classic&config_timezone=America%2FSao_Paulo" alt="Estatísticas do GitHub" />
-</div>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight" />
 ---
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://linkedin.com/in/linkedin/in/ductvi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
