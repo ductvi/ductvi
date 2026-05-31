@@ -35,9 +35,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight" />
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ductvi&theme=tokyonight&no-frame=true&margin-w=15" alt="Troféus do GitHub" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 </div>
 ---
 
