@@ -34,7 +34,7 @@
 ### 📊 Estatísticas
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight" />
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 </div>
 ---
