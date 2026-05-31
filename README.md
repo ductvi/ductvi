@@ -33,8 +33,9 @@
 
 ### 📊 Estatísticas
 
-<img src="meus-status-github-psi.vercel.app/api?username=ductvi&show_icons=true&theme=tokyonight" />
-
+<div align="center">
+  <img src="https://metrics.lecoq.io/ductvi?template=classic&config_timezone=America%2FSao_Paulo" alt="Estatísticas do GitHub" />
+</div>
 ---
 
 <div align="left">
