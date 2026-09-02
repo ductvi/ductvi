@@ -37,6 +37,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight" alt="Top Linguagens" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&cache_seconds=1800&count_private=true)
 </div>
 ---
 
