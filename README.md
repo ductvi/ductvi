@@ -38,10 +38,6 @@
 <div align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductvi&layout=compact&theme=tokyonight" alt="Top Linguagens" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&cache_seconds=1800&count_private=true)
-</div>
----
-
 <div align="left">
   <a href="https://linkedin.com/in/ductvi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
